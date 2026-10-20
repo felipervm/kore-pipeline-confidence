@@ -6,3 +6,6 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 .pagination{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:20px 26px;font-size:10px;color:#748d9f}.pagination>div{display:flex;gap:9px}.pagination button:disabled{opacity:.4;cursor:default}@media(max-width:500px){.pagination{padding:18px 16px;display:block;font-size:9px}.pagination>div{margin-top:12px}.pagination .outline{font-size:10px}}
+
+/* Readable supporting text on light surfaces. */
+.brand span,.hero-note,.hero-visual figcaption,.visual-label span,.visual-label p,.benefits span,.mini-label,#record-preview,.small-note,.metrics span,.value-comparison span,.value-comparison p,.definition-note p,.dash-head span,.filters label,.queue-meta,.table-hint,th,td small,.dash-foot,.control summary small,.control-content,.control-content span,.enablement li span,.pilot>div>p:not(.eyebrow),.pilot-steps p,.portrait figcaption,.about-copy p,.skill-strip span,.contact-links,.inspection-meta,.inspection-issue p,.inspection-issue small,.pagination{color:#5d7384}.about-copy .intro{color:#46687f}
