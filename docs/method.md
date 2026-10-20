@@ -24,7 +24,7 @@ Illustrative stage probabilities: Prospecting 10, Qualification 25, Proposal 50,
 
 The walkthrough compares the source record with a proposed review approach. It does not change or resolve anything. A responsible function is proposed, rather than a claim that the person has accepted a task. Source records, totals and flags remain unchanged. Review events carry `requiresHumanReview:true` and `executed:false`. No Salesforce/Gemini or external API connection exists.
 
-The queue defaults to records requiring review. Status, rule, stage and text filters affect only displayed rows and CSV. Whole-fixture summary cards remain fixed. CSV exports include field headers and quote embedded quotes. An empty selection exports headers only.
+The queue defaults to records requiring review. Status, rule, stage and text filters affect only displayed rows and CSV. The queue shows ten records per page; the CSV exports every matching record, including other pages. Whole-fixture summary cards remain fixed. CSV exports include field headers and quote embedded quotes. An empty selection exports headers only.
 
 ## Verification and limits
 
