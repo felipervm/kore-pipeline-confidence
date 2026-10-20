@@ -1,21 +1,37 @@
-# Pipeline Confidence — KORE Sales Operations proof of work
+# Pipeline Confidence — KORE Sales Operations work sample
 
-**Independent project by Felipe Mattos** · Synthetic data · Not affiliated with KORE.
+Independent project by Felipe Mattos. Fictional opportunities, illustrative policies and no affiliation with KORE.
 
-A reproducible demonstration of how a Sales Operations analyst could validate opportunity records, surface exceptions and suggest the next accountable person before leadership consumes pipeline reports.
+A business-first demonstration of seller support: inspect an unclear record, explain each control, propose an accountable function and make the next action reviewable. The page uses KORE's official logo, globe imagery, Aptos Display headings, Inter body text, navy and orange. Felipe's supplied photo appears in the closing introduction.
 
-## Baseline local project
-The complete tested source package is maintained separately as `Pipeline_Confidence_KORE_Project.zip` in the conversation. This repository is being populated through the GitHub connector. The original package contains a standalone interactive `index.html`, deterministic Python generator, CSV/JSON data, validation controls and 12 passing unit tests.
+## Run and verify
 
-## Illustrative results from the original tested fixture
-- 120 fictional IoT opportunities
-- 57 requiring review; 63 passing
-- CAD 10,803,000 numeric reported open annualized value
-- CAD 5,376,000 strict quality-pass-only subset of open annualized value
+```sh
+python src/build.py
+python -m unittest discover -s tests -v
+python src/render.py
+node --check engine.js
+node --check app.js
+python -m http.server 8000
+```
 
-**Not** KORE data, real eARR, corrected forecast, lost revenue or measured savings.
+Open localhost:8000. The generated page loads local scripts and embedded fixture data without an API. Python 3 and Node are needed for the full checks. CI runs these checks on main.
 
-## Context for design and Codex
-See [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) in the downloadable handoff for the company research, role mapping, project controls, candidate positioning and design brief.
+## Preserved original fixture
 
-Source: https://github.com/felipervm/kore-pipeline-confidence
+- 120 fictional opportunities; 57 require review; 63 pass the seven controls.
+- CAD 10,803,000 reported numeric open annualized value.
+- CAD 5,376,000 strict pass-only open-value subset.
+- Original seed and as-of: 20261020 / 20 October 2026.
+
+These are not KORE metrics, eARR, forecast corrections, lost revenue or measured gains. The original generator and 12 tests are preserved. Two additional tests compare the browser engine against Python over all 120 records and boundary cases, including the dormant approval rule and source preservation.
+
+## Interface
+
+Current-record versus proposed-approach walkthrough; dynamic whole-fixture counts and values; status/rule/stage/search filters; filtered CSV; keyboard-accessible inspection dialog; seven expandable control definitions with links into the queue; proposed seller enablement and 30-day shadow pilot.
+
+Source observations are never changed. All proposed actions require human review; no Salesforce, Gemini or production integration exists. See [definitions and limitations](docs/method.md) and [candidate-provided context](PROJECT_CONTEXT.md).
+
+Files: `src/build.py` builds CSV/results; `src/render.py` renders `index.html` from `src/template.html` and emits `data.js`; `engine.js` mirrors the original rules; `app.js` handles presentation; `styles.css` defines the responsive layout.
+
+[Live page](https://felipervm.github.io/kore-pipeline-confidence/) · [LinkedIn](https://www.linkedin.com/in/felipervm/) · felipervm22@gmail.com

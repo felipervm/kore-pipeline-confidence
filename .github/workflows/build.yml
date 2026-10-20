@@ -13,12 +13,18 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
       - run: python src/build.py
       - run: python -m unittest discover -s tests -v
       - run: python src/render.py
+      - run: node --check engine.js
+      - run: node --check app.js
       - name: Commit generated data and page
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.html data/opportunities.csv data/results.json
+          git add index.html data.js data/opportunities.csv data/results.json
           git diff --cached --quiet || (git commit -m "Build reproducible interactive case" && git push)
+
