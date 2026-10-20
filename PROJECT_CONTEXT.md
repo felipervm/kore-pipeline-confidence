@@ -16,3 +16,41 @@ Premium editorial B2B; clear hero, careful hierarchy, one interactive before/aft
 Original local project generated deterministic CSV and JSON with Python; 12 tests passed Oct 20 2026. A compact GitHub-hosted site may not match the original ZIP; use the original source package as baseline before final redesign. Always rerun tests and reconcile dashboard numbers after changes.
 ## Desired outreach
 Lead with how reliable pipeline records empower sellers and leadership; specific to role; ask a clear low-friction action. Clarify Ontario remote work eligibility before assuming permission to work from Italy.
+
+
+## PRIMARY DIRECTION — KNOW → FEEL → DO (October 20, 2026)
+
+**This section supersedes any earlier dashboard-first brief.** The goal is not to showcase what Felipe can code. It is to make KORE's Revenue Systems & Insights team see a practical advantage in having Felipe as a Sales Operations Analyst.
+
+### KNOW
+The visitor understands how reliable opportunity records and clear next actions can support sellers, Sales Operations and leadership. This is a hypothesis-driven proposal for a general workflow, not a diagnosis of KORE's systems.
+
+### FEEL
+The visitor feels Felipe is thoughtful, proactive, service-oriented and collaborative. He respects frontline sellers, explains complexity simply, and recognizes that technology only creates value when people can act on it.
+
+### DO
+The visitor should consider Felipe for the Sales Operations Analyst role, discuss his candidacy, or forward the case to the relevant Revenue Systems & Insights hiring team.
+
+### New primary narrative
+**Less time fixing the pipeline. More time moving it forward.**
+
+Sales teams should be able to focus on progressing opportunities. Illustrate one realistic fictional obstacle (past-due close date, missing next step), its operational consequence, and a proposed owner/action. Only then show data and implementation evidence.
+
+### Updated page order
+1. Human and operational benefit for sellers, RevOps and leadership.
+2. Interactive before-versus-proposed-approach scenario, with human review and no CRM mutation.
+3. Evidence and transparent synthetic counts; no invented time savings, outcome or corrected forecasts.
+4. Actionable exception controls, quality issues and ownership.
+5. First-30-days proposal: align definitions, test in read-only shadow mode, enable colleagues through concise training.
+6. Personal relevance: DataForce QA, V3A reporting automation + AI workshops, Raw Data Club and Power BI; Portuguese is a personal strength, not a verified requirement for this exact posting.
+7. Concrete candidacy CTA.
+
+### Nonnegotiable accuracy
+- No real KORE system access or internal problem claims.
+- The example is fictional; the improvement is a proposal, not measured productivity gain.
+- Do not confuse KORE eARR (month-12 recurring revenue times twelve) with our simplified fictional annualized values.
+- No invented Salesforce administrator, Gemini Enterprise, production rollout or banking experience.
+- Current public repository contains an initial narrative preview; the complete local reproducible application is supplied separately. Codex should use full source and preserve its tests when it replaces the preview.
+
+### Visitor test
+Within 30 seconds, the manager should be able to say: who benefits, what becomes easier, what Felipe proposes, why he can contribute, and how to engage him. A mere list of charts, frameworks and tools fails.
