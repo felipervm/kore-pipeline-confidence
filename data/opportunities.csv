@@ -1,0 +1,121 @@
+opportunity_id,account,segment,owner,stage,close_date,estimated_arr_cad,contract_arr_cad,probability_pct,last_updated,next_step,approval_status,data_origin
+KPC-0001,Synthetic Account 001,Industrial IoT,Sam Rivera,Closed Won,2026-11-09,202000,202000,100,2026-10-17,Validate commercial terms,Approved,Synthetic fixture
+KPC-0002,Synthetic Account 002,Connected Retail,Taylor Morgan,Prospecting,2026-11-11,20000,,10,2026-10-16,Review proposal,Approved,Synthetic fixture
+KPC-0003,Synthetic Account 003,Industrial IoT,Taylor Morgan,Prospecting,2027-01-03,68000,,10,2026-10-17,Confirm scope,Pending,Synthetic fixture
+KPC-0004,Synthetic Account 004,Smart Logistics,Sam Rivera,Closed Lost,2026-10-28,41000,,0,2026-10-03,Review proposal,Approved,Synthetic fixture
+KPC-0005,Synthetic Account 005,Healthcare Devices,Taylor Morgan,Closed Won,2026-09-13,125000,125000,100,2026-10-15,Confirm scope,Approved,Synthetic fixture
+KPC-0006,Synthetic Account 006,Industrial IoT,Sam Rivera,Proposal,2026-12-16,64000,,50,2026-09-30,Review proposal,Approved,Synthetic fixture
+KPC-0007,Synthetic Account 007,Fleet Telematics,Jordan Lee,Negotiation,2026-09-25,254000,,75,2026-09-27,Confirm scope,Pending,Synthetic fixture
+KPC-0008,Synthetic Account 008,Fleet Telematics,Casey Patel,Negotiation,2026-10-08,113000,,75,2026-09-25,Validate commercial terms,Pending,Synthetic fixture
+KPC-0009,Synthetic Account 009,Industrial IoT,Morgan Blake,Negotiation,2026-09-15,114000,,75,2026-09-09,Review proposal,Approved,Synthetic fixture
+KPC-0010,Synthetic Account 010,Smart Logistics,Sam Rivera,Closed Won,2026-12-15,103000,103000,100,2026-09-22,Review proposal,Approved,Synthetic fixture
+KPC-0011,Synthetic Account 011,Connected Retail,Taylor Morgan,Qualification,2026-08-25,231000,,25,2026-10-16,,Approved,Synthetic fixture
+KPC-0012,Synthetic Account 012,Smart Logistics,Casey Patel,Qualification,2026-10-04,41000,,25,2026-09-19,Review proposal,Approved,Synthetic fixture
+KPC-0013,Synthetic Account 013,Healthcare Devices,Alex Chen,Prospecting,2026-11-22,,,10,2026-09-08,Validate commercial terms,Approved,Synthetic fixture
+KPC-0014,Synthetic Account 014,Smart Logistics,Alex Chen,Negotiation,2026-11-26,69000,,75,2026-10-06,Validate commercial terms,Pending,Synthetic fixture
+KPC-0015,Synthetic Account 015,Smart Logistics,Jordan Lee,Proposal,2026-12-20,205000,,50,2026-09-08,Confirm scope,Approved,Synthetic fixture
+KPC-0016,Synthetic Account 016,Smart Logistics,Jordan Lee,Negotiation,2027-01-17,109000,,75,2026-10-06,Validate commercial terms,Pending,Synthetic fixture
+KPC-0017,Synthetic Account 017,Smart Logistics,Morgan Blake,Negotiation,2026-11-06,123000,,90,2026-09-19,Validate commercial terms,Pending,Synthetic fixture
+KPC-0018,Synthetic Account 018,Healthcare Devices,Sam Rivera,Proposal,2026-09-15,25000,,50,2026-09-18,Validate commercial terms,Pending,Synthetic fixture
+KPC-0019,Synthetic Account 019,Industrial IoT,,Prospecting,2026-09-05,173000,,10,2026-09-30,Customer follow-up,Pending,Synthetic fixture
+KPC-0020,Synthetic Account 020,Smart Logistics,Jordan Lee,Prospecting,2026-11-17,193000,,10,2026-10-10,Customer follow-up,Pending,Synthetic fixture
+KPC-0021,Synthetic Account 021,Industrial IoT,Alex Chen,Qualification,2026-12-12,230000,,25,2026-09-09,Validate commercial terms,Approved,Synthetic fixture
+KPC-0022,Synthetic Account 022,Smart Logistics,Morgan Blake,Prospecting,2026-12-20,67000,,10,2026-10-07,,Approved,Synthetic fixture
+KPC-0023,Synthetic Account 023,Smart Logistics,Jordan Lee,Proposal,2026-11-17,112000,,50,2026-09-23,Customer follow-up,Pending,Synthetic fixture
+KPC-0024,Synthetic Account 024,Fleet Telematics,Jordan Lee,Proposal,2026-09-26,52000,,50,2026-09-17,Confirm scope,Pending,Synthetic fixture
+KPC-0025,Synthetic Account 025,Industrial IoT,Casey Patel,Prospecting,2026-10-18,143000,,10,2026-09-13,Customer follow-up,Approved,Synthetic fixture
+KPC-0026,Synthetic Account 026,Healthcare Devices,Jordan Lee,Closed Won,2026-09-19,,43000,100,2026-09-29,Confirm scope,Approved,Synthetic fixture
+KPC-0027,Synthetic Account 027,Healthcare Devices,Morgan Blake,Qualification,2026-09-15,111000,,25,2026-09-17,Confirm scope,Pending,Synthetic fixture
+KPC-0028,Synthetic Account 028,Smart Logistics,Alex Chen,Closed Won,2026-09-21,97000,97000,100,2026-10-16,Validate commercial terms,Approved,Synthetic fixture
+KPC-0029,Synthetic Account 029,Smart Logistics,Casey Patel,Closed Won,2026-08-26,114000,114000,100,2026-10-09,Confirm scope,Approved,Synthetic fixture
+KPC-0030,Synthetic Account 030,Fleet Telematics,Alex Chen,Qualification,2026-10-28,58000,,25,2026-09-13,Customer follow-up,Approved,Synthetic fixture
+KPC-0031,Synthetic Account 031,Connected Retail,Jordan Lee,Negotiation,2027-01-14,75000,,75,2026-09-27,Customer follow-up,Pending,Synthetic fixture
+KPC-0032,Synthetic Account 032,Healthcare Devices,Taylor Morgan,Prospecting,2026-11-05,102000,,10,2026-10-10,Review proposal,Pending,Synthetic fixture
+KPC-0033,Synthetic Account 033,Connected Retail,Alex Chen,Proposal,2026-09-17,114000,,50,2026-09-30,,Approved,Synthetic fixture
+KPC-0034,Synthetic Account 034,Smart Logistics,Taylor Morgan,Proposal,2026-11-07,211000,,90,2026-10-14,Review proposal,Approved,Synthetic fixture
+KPC-0035,Synthetic Account 035,Connected Retail,Alex Chen,Proposal,2026-10-06,226000,,50,2026-09-27,Validate commercial terms,Pending,Synthetic fixture
+KPC-0036,Synthetic Account 036,Healthcare Devices,Taylor Morgan,Closed Lost,2026-09-15,101000,,0,2026-09-25,Review proposal,Approved,Synthetic fixture
+KPC-0037,Synthetic Account 037,Connected Retail,Jordan Lee,Closed Won,2026-12-25,137000,137000,100,2026-10-02,Review proposal,Approved,Synthetic fixture
+KPC-0038,Synthetic Account 038,Industrial IoT,,Closed Won,2026-11-08,95000,95000,100,2026-09-22,Customer follow-up,Approved,Synthetic fixture
+KPC-0039,Synthetic Account 039,Connected Retail,Alex Chen,Closed Lost,2026-09-07,,,0,2026-09-21,Validate commercial terms,Approved,Synthetic fixture
+KPC-0040,Synthetic Account 040,Connected Retail,Casey Patel,Proposal,2026-11-26,84000,,50,2026-09-11,Confirm scope,Pending,Synthetic fixture
+KPC-0041,Synthetic Account 041,Smart Logistics,Sam Rivera,Qualification,2026-12-09,78000,,25,2026-10-13,Confirm scope,Approved,Synthetic fixture
+KPC-0042,Synthetic Account 042,Healthcare Devices,Jordan Lee,Qualification,2026-09-10,203000,,25,2026-09-19,Customer follow-up,Approved,Synthetic fixture
+KPC-0043,Synthetic Account 043,Smart Logistics,Alex Chen,Closed Won,2026-11-06,125000,125000,100,2026-09-15,Confirm scope,Approved,Synthetic fixture
+KPC-0044,Synthetic Account 044,Smart Logistics,Sam Rivera,Negotiation,2026-10-01,89000,,75,2026-09-18,,Approved,Synthetic fixture
+KPC-0045,Synthetic Account 045,Fleet Telematics,Taylor Morgan,Closed Won,2026-09-15,203000,203000,100,2026-09-13,Review proposal,Approved,Synthetic fixture
+KPC-0046,Synthetic Account 046,Industrial IoT,Sam Rivera,Proposal,2026-10-28,257000,,50,2026-09-07,Review proposal,Approved,Synthetic fixture
+KPC-0047,Synthetic Account 047,Connected Retail,Sam Rivera,Prospecting,2026-10-19,103000,,10,2026-09-29,Review proposal,Approved,Synthetic fixture
+KPC-0048,Synthetic Account 048,Connected Retail,Alex Chen,Negotiation,2026-11-18,200000,,75,2026-09-18,Confirm scope,Pending,Synthetic fixture
+KPC-0049,Synthetic Account 049,Healthcare Devices,Alex Chen,Proposal,2027-01-13,215000,,50,2026-09-16,Review proposal,Pending,Synthetic fixture
+KPC-0050,Synthetic Account 050,Healthcare Devices,Casey Patel,Closed Won,2027-01-05,70000,70000,100,2026-10-13,Customer follow-up,Approved,Synthetic fixture
+KPC-0051,Synthetic Account 051,Industrial IoT,Morgan Blake,Negotiation,2027-01-27,203000,,90,2026-10-13,Confirm scope,Approved,Synthetic fixture
+KPC-0052,Synthetic Account 052,Smart Logistics,Jordan Lee,Closed Lost,2026-10-09,,,0,2026-10-10,Validate commercial terms,Approved,Synthetic fixture
+KPC-0053,Synthetic Account 053,Fleet Telematics,Alex Chen,Prospecting,2027-01-18,33000,,10,2026-09-18,Confirm scope,Approved,Synthetic fixture
+KPC-0054,Synthetic Account 054,Fleet Telematics,Sam Rivera,Closed Won,2026-09-15,195000,195000,100,2026-09-10,Confirm scope,Approved,Synthetic fixture
+KPC-0055,Synthetic Account 055,Industrial IoT,Alex Chen,Proposal,2026-09-05,172000,,50,2026-10-19,,Pending,Synthetic fixture
+KPC-0056,Synthetic Account 056,Healthcare Devices,Taylor Morgan,Proposal,2026-09-17,123000,,50,2026-10-19,Confirm scope,Pending,Synthetic fixture
+KPC-0057,Synthetic Account 057,Healthcare Devices,,Qualification,2026-08-31,41000,,25,2026-09-08,Review proposal,Pending,Synthetic fixture
+KPC-0058,Synthetic Account 058,Connected Retail,Taylor Morgan,Proposal,2026-09-05,34000,,50,2026-09-17,Confirm scope,Pending,Synthetic fixture
+KPC-0059,Synthetic Account 059,Smart Logistics,Morgan Blake,Negotiation,2026-11-01,13000,,75,2026-09-26,Validate commercial terms,Pending,Synthetic fixture
+KPC-0060,Synthetic Account 060,Smart Logistics,Alex Chen,Closed Won,2026-11-03,259000,259000,100,2026-09-23,Validate commercial terms,Approved,Synthetic fixture
+KPC-0061,Synthetic Account 061,Connected Retail,Sam Rivera,Negotiation,2026-09-29,147000,,75,2026-10-08,Validate commercial terms,Pending,Synthetic fixture
+KPC-0062,Synthetic Account 062,Fleet Telematics,Taylor Morgan,Closed Lost,2026-12-13,239000,,0,2026-10-10,Validate commercial terms,Approved,Synthetic fixture
+KPC-0063,Synthetic Account 063,Industrial IoT,Morgan Blake,Negotiation,2026-09-15,12000,,75,2026-10-18,Validate commercial terms,Approved,Synthetic fixture
+KPC-0064,Synthetic Account 064,Connected Retail,Alex Chen,Qualification,2026-09-19,41000,,25,2026-10-09,Customer follow-up,Pending,Synthetic fixture
+KPC-0065,Synthetic Account 065,Healthcare Devices,Alex Chen,Proposal,2027-01-18,,,50,2026-10-20,Customer follow-up,Approved,Synthetic fixture
+KPC-0066,Synthetic Account 066,Fleet Telematics,Morgan Blake,Negotiation,2027-01-04,146000,,75,2026-10-07,,Pending,Synthetic fixture
+KPC-0067,Synthetic Account 067,Fleet Telematics,Casey Patel,Prospecting,2026-12-16,116000,,10,2026-09-27,Confirm scope,Approved,Synthetic fixture
+KPC-0068,Synthetic Account 068,Fleet Telematics,Taylor Morgan,Closed Won,2026-09-07,39000,39000,90,2026-09-20,Review proposal,Approved,Synthetic fixture
+KPC-0069,Synthetic Account 069,Healthcare Devices,Taylor Morgan,Closed Won,2026-08-21,66000,71000,100,2026-10-07,Validate commercial terms,Approved,Synthetic fixture
+KPC-0070,Synthetic Account 070,Healthcare Devices,Morgan Blake,Negotiation,2027-01-06,178000,,75,2026-10-05,Review proposal,Pending,Synthetic fixture
+KPC-0071,Synthetic Account 071,Smart Logistics,Sam Rivera,Qualification,2026-12-01,176000,,25,2026-09-22,Confirm scope,Approved,Synthetic fixture
+KPC-0072,Synthetic Account 072,Connected Retail,Alex Chen,Proposal,2026-09-15,155000,,50,2026-09-14,Customer follow-up,Pending,Synthetic fixture
+KPC-0073,Synthetic Account 073,Connected Retail,Casey Patel,Closed Lost,2026-10-27,256000,,0,2026-10-08,Confirm scope,Approved,Synthetic fixture
+KPC-0074,Synthetic Account 074,Connected Retail,Casey Patel,Prospecting,2026-08-27,217000,,10,2026-10-01,Confirm scope,Pending,Synthetic fixture
+KPC-0075,Synthetic Account 075,Fleet Telematics,Taylor Morgan,Proposal,2026-11-30,118000,,50,2026-10-02,Confirm scope,Approved,Synthetic fixture
+KPC-0076,Synthetic Account 076,Industrial IoT,,Qualification,2027-01-03,17000,,25,2026-09-26,Customer follow-up,Approved,Synthetic fixture
+KPC-0077,Synthetic Account 077,Fleet Telematics,Morgan Blake,Proposal,2026-09-17,189000,,50,2026-09-14,,Approved,Synthetic fixture
+KPC-0078,Synthetic Account 078,Connected Retail,Casey Patel,Closed Lost,2026-09-15,,,0,2026-09-28,Customer follow-up,Approved,Synthetic fixture
+KPC-0079,Synthetic Account 079,Smart Logistics,Morgan Blake,Closed Lost,2026-11-10,255000,,0,2026-09-16,Confirm scope,Approved,Synthetic fixture
+KPC-0080,Synthetic Account 080,Fleet Telematics,Sam Rivera,Prospecting,2026-11-07,200000,,10,2026-09-16,Confirm scope,Pending,Synthetic fixture
+KPC-0081,Synthetic Account 081,Fleet Telematics,Morgan Blake,Qualification,2026-09-15,23000,,25,2026-09-15,Confirm scope,Pending,Synthetic fixture
+KPC-0082,Synthetic Account 082,Connected Retail,Alex Chen,Qualification,2026-08-23,190000,,25,2026-09-14,Customer follow-up,Pending,Synthetic fixture
+KPC-0083,Synthetic Account 083,Healthcare Devices,Jordan Lee,Negotiation,2026-11-27,37000,,75,2026-10-07,Customer follow-up,Approved,Synthetic fixture
+KPC-0084,Synthetic Account 084,Healthcare Devices,Sam Rivera,Closed Lost,2026-12-11,224000,,0,2026-09-16,Validate commercial terms,Approved,Synthetic fixture
+KPC-0085,Synthetic Account 085,Fleet Telematics,Jordan Lee,Proposal,2026-10-12,217000,,90,2026-10-11,Validate commercial terms,Pending,Synthetic fixture
+KPC-0086,Synthetic Account 086,Fleet Telematics,Taylor Morgan,Prospecting,2027-01-18,52000,,10,2026-10-11,Confirm scope,Approved,Synthetic fixture
+KPC-0087,Synthetic Account 087,Healthcare Devices,Alex Chen,Closed Lost,2026-11-23,58000,,0,2026-10-08,Customer follow-up,Approved,Synthetic fixture
+KPC-0088,Synthetic Account 088,Industrial IoT,Sam Rivera,Proposal,2026-11-11,222000,,50,2026-09-26,,Pending,Synthetic fixture
+KPC-0089,Synthetic Account 089,Connected Retail,Casey Patel,Proposal,2026-10-13,257000,,50,2026-10-05,Confirm scope,Approved,Synthetic fixture
+KPC-0090,Synthetic Account 090,Connected Retail,Sam Rivera,Negotiation,2026-09-15,32000,,75,2026-10-06,Review proposal,Pending,Synthetic fixture
+KPC-0091,Synthetic Account 091,Fleet Telematics,Morgan Blake,Qualification,2026-10-23,,,25,2026-10-13,Confirm scope,Pending,Synthetic fixture
+KPC-0092,Synthetic Account 092,Smart Logistics,Casey Patel,Qualification,2026-09-03,175000,,25,2026-10-07,Customer follow-up,Pending,Synthetic fixture
+KPC-0093,Synthetic Account 093,Healthcare Devices,Casey Patel,Closed Won,2026-12-20,23000,23000,100,2026-09-18,Customer follow-up,Approved,Synthetic fixture
+KPC-0094,Synthetic Account 094,Fleet Telematics,Sam Rivera,Closed Lost,2027-01-02,53000,,0,2026-09-30,Confirm scope,Approved,Synthetic fixture
+KPC-0095,Synthetic Account 095,Healthcare Devices,,Closed Lost,2026-11-17,141000,,0,2026-09-16,Customer follow-up,Approved,Synthetic fixture
+KPC-0096,Synthetic Account 096,Fleet Telematics,Sam Rivera,Closed Lost,2026-09-25,73000,,0,2026-09-19,Customer follow-up,Approved,Synthetic fixture
+KPC-0097,Synthetic Account 097,Healthcare Devices,Casey Patel,Proposal,2026-11-23,173000,,50,2026-10-14,Review proposal,Approved,Synthetic fixture
+KPC-0098,Synthetic Account 098,Industrial IoT,Jordan Lee,Proposal,2026-12-24,185000,,50,2026-09-24,Customer follow-up,Pending,Synthetic fixture
+KPC-0099,Synthetic Account 099,Connected Retail,Taylor Morgan,Proposal,2026-09-15,119000,,50,2026-10-06,,Pending,Synthetic fixture
+KPC-0100,Synthetic Account 100,Healthcare Devices,Jordan Lee,Proposal,2026-12-30,93000,,50,2026-09-24,Customer follow-up,Pending,Synthetic fixture
+KPC-0101,Synthetic Account 101,Healthcare Devices,Alex Chen,Proposal,2026-09-16,144000,,50,2026-10-10,Review proposal,Pending,Synthetic fixture
+KPC-0102,Synthetic Account 102,Fleet Telematics,Casey Patel,Proposal,2026-08-30,69000,,90,2026-10-09,Confirm scope,Pending,Synthetic fixture
+KPC-0103,Synthetic Account 103,Fleet Telematics,Alex Chen,Proposal,2027-01-21,242000,,50,2026-09-22,Validate commercial terms,Pending,Synthetic fixture
+KPC-0104,Synthetic Account 104,Fleet Telematics,Casey Patel,Closed Won,2026-12-09,,256000,100,2026-10-17,Review proposal,Approved,Synthetic fixture
+KPC-0105,Synthetic Account 105,Connected Retail,Casey Patel,Negotiation,2026-10-25,230000,,75,2026-09-28,Confirm scope,Approved,Synthetic fixture
+KPC-0106,Synthetic Account 106,Connected Retail,Jordan Lee,Proposal,2026-11-01,163000,,50,2026-09-11,Review proposal,Approved,Synthetic fixture
+KPC-0107,Synthetic Account 107,Industrial IoT,Sam Rivera,Proposal,2026-11-26,256000,,50,2026-10-02,Confirm scope,Approved,Synthetic fixture
+KPC-0108,Synthetic Account 108,Healthcare Devices,Sam Rivera,Closed Lost,2026-09-15,13000,,0,2026-09-10,Confirm scope,Approved,Synthetic fixture
+KPC-0109,Synthetic Account 109,Smart Logistics,Alex Chen,Proposal,2026-10-28,253000,,50,2026-10-18,Confirm scope,Pending,Synthetic fixture
+KPC-0110,Synthetic Account 110,Connected Retail,Casey Patel,Proposal,2026-11-11,34000,,50,2026-10-01,,Pending,Synthetic fixture
+KPC-0111,Synthetic Account 111,Smart Logistics,Casey Patel,Proposal,2026-11-28,240000,,50,2026-10-20,Validate commercial terms,Approved,Synthetic fixture
+KPC-0112,Synthetic Account 112,Connected Retail,Morgan Blake,Proposal,2026-12-27,19000,,50,2026-10-15,Validate commercial terms,Approved,Synthetic fixture
+KPC-0113,Synthetic Account 113,Industrial IoT,Sam Rivera,Negotiation,2026-11-29,181000,,75,2026-09-28,Validate commercial terms,Pending,Synthetic fixture
+KPC-0114,Synthetic Account 114,Connected Retail,,Prospecting,2026-11-09,55000,,10,2026-10-02,Customer follow-up,Approved,Synthetic fixture
+KPC-0115,Synthetic Account 115,Smart Logistics,Jordan Lee,Qualification,2026-11-28,230000,,25,2026-09-10,Customer follow-up,Pending,Synthetic fixture
+KPC-0116,Synthetic Account 116,Industrial IoT,Jordan Lee,Proposal,2026-11-14,49000,,50,2026-09-07,Validate commercial terms,Approved,Synthetic fixture
+KPC-0117,Synthetic Account 117,Smart Logistics,Taylor Morgan,Negotiation,2026-09-15,,,75,2026-09-07,Review proposal,Pending,Synthetic fixture
+KPC-0118,Synthetic Account 118,Connected Retail,Sam Rivera,Closed Won,2026-08-28,234000,234000,100,2026-09-08,Validate commercial terms,Approved,Synthetic fixture
+KPC-0119,Synthetic Account 119,Connected Retail,Taylor Morgan,Closed Won,2027-01-18,252000,252000,90,2026-09-20,Confirm scope,Approved,Synthetic fixture
+KPC-0120,Synthetic Account 120,Smart Logistics,Casey Patel,Closed Won,2026-08-23,58000,58000,100,2026-09-16,Review proposal,Approved,Synthetic fixture
